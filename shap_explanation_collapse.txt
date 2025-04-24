@@ -1,0 +1,7 @@
+SHAP Explanation for predicted intent: 'collapse'
+
+The model made this prediction mainly due to the following feature influences:
+
+- y = 0.275 → increased the confidence for 'collapse' (SHAP: 5.5806)
+- vx = 0.000 → increased the confidence for 'collapse' (SHAP: 2.8782)
+- vz = 0.000 → decreased the confidence for 'collapse' (SHAP: -2.5246)

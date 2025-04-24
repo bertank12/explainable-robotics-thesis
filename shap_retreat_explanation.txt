@@ -1,0 +1,9 @@
+SHAP explanation for predicted class: retreat
+
+- force: 17.399 → ↑ contribution: 1.0806
+- vz: -0.015 → ↑ contribution: 0.6208
+- y: 0.000 → ↓ contribution: -0.5626
+- x: -0.031 → ↑ contribution: 0.4601
+- vy: 0.000 → ↓ contribution: -0.4429
+- z: 0.828 → ↑ contribution: 0.2327
+- vx: -0.238 → ↑ contribution: 0.1739

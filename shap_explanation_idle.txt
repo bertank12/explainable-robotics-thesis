@@ -1,0 +1,9 @@
+SHAP Explanation for class 'idle':
+
+  - Feature 'x' = 0.0880 → SHAP: -0.4539
+  - Feature 'y' = -0.0000 → SHAP: -0.1717
+  - Feature 'z' = 0.8210 → SHAP: -1.0661
+  - Feature 'vx' = 0.0000 → SHAP: -0.2899
+  - Feature 'vy' = -0.0000 → SHAP: +2.0915
+  - Feature 'vz' = -0.0000 → SHAP: -0.2509
+  - Feature 'force' = 5.6843 → SHAP: +0.0204

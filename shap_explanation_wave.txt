@@ -1,0 +1,9 @@
+SHAP Explanation for class 'wave':
+
+  - Feature 'x' = 0.0585 → SHAP: +0.2881
+  - Feature 'y' = 0.0000 → SHAP: +0.0160
+  - Feature 'z' = 1.2554 → SHAP: +5.5992
+  - Feature 'vx' = 0.0001 → SHAP: +0.0442
+  - Feature 'vy' = -0.0000 → SHAP: +0.1696
+  - Feature 'vz' = 0.0000 → SHAP: +0.2327
+  - Feature 'force' = 10.6719 → SHAP: +0.1377

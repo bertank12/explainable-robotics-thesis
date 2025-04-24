@@ -1,0 +1,9 @@
+SHAP Explanation for class 'handshake':
+
+  - Feature 'y' = 0.0943 → SHAP: +5.9026
+  - Feature 'z' = 0.8516 → SHAP: +2.3325
+  - Feature 'x' = 0.6857 → SHAP: +0.5224
+  - Feature 'force' = 8.2201 → SHAP: +0.3855
+  - Feature 'vy' = -0.1093 → SHAP: -0.0365
+  - Feature 'vx' = 0.6643 → SHAP: -0.0056
+  - Feature 'vz' = -0.1331 → SHAP: +0.0000

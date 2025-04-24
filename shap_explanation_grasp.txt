@@ -1,0 +1,9 @@
+SHAP Explanation for class 'grasp':
+
+  - Feature 'vz' = -0.5467 → SHAP: -1.1631
+  - Feature 'vx' = 0.4905 → SHAP: -0.6929
+  - Feature 'z' = 0.5787 → SHAP: +0.5899
+  - Feature 'x' = 0.6572 → SHAP: +0.1668
+  - Feature 'y' = -0.0000 → SHAP: +0.1139
+  - Feature 'vy' = -0.0000 → SHAP: -0.0557
+  - Feature 'force' = 15.6163 → SHAP: +0.0144

@@ -1,0 +1,9 @@
+SHAP Explanation for class 'pushaway':
+
+  - Feature 'x' = 0.8867 → SHAP: -0.0939
+  - Feature 'y' = 0.0000 → SHAP: -0.0031
+  - Feature 'z' = 0.1418 → SHAP: +0.3028
+  - Feature 'vx' = 0.0000 → SHAP: +0.0000
+  - Feature 'vy' = 0.0000 → SHAP: -0.0103
+  - Feature 'vz' = 0.0000 → SHAP: -0.3925
+  - Feature 'force' = 10.7352 → SHAP: -0.0151
