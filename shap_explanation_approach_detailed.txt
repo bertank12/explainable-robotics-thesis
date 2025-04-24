@@ -1,0 +1,13 @@
+SHAP-Based Explanation for Human-Robot Intent: 'approach'
+
+The most influential features on this prediction were:
+
+- 'force' = 9.134 → decreased confidence in predicting 'approach'
+- 'x' = 0.442 → increased confidence in predicting 'approach'
+- 'z' = 0.535 → increased confidence in predicting 'approach'
+
+Additional motion dynamics:
+
+- 'vx' = -0.000 → high impact (SHAP = -0.348)
+- 'vy' = 0.000 → high impact (SHAP = -0.348)
+- 'vz' = 0.000 → high impact (SHAP = 0.140)

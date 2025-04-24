@@ -1,0 +1,7 @@
+SHAP-Based Explanation for Human-Robot Intent: 'approach'
+
+The following features had the most impact on the model's decision:
+
+- Feature 'force' with a value of 9.134 decreased the confidence for predicting 'approach'.
+- Feature 'x' with a value of 0.442 increased the confidence for predicting 'approach'.
+- Feature 'z' with a value of 0.535 increased the confidence for predicting 'approach'.
